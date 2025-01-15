@@ -1,0 +1,71 @@
+---- Results ----
+
+Execution Results:
+Size: 64
+Execution Time (ms): 19
+Memory Usage (MB): 4.435577392578125
+CPU (%): 37.83783783783784
+Nodes: 1
+Network Latency (ms): 0
+Transfer Time (ms): 0
+-----------------
+
+Execution Results:
+Size: 128
+Execution Time (ms): 5
+Memory Usage (MB): 11.116043090820312
+CPU (%): 15.789473684210526
+Nodes: 1
+Network Latency (ms): 0
+Transfer Time (ms): 0
+-----------------
+
+Execution Results:
+Size: 256
+Execution Time (ms): 8
+Memory Usage (MB): 13.963752746582031
+CPU (%): NaN
+Nodes: 1
+Network Latency (ms): 0
+Transfer Time (ms): 0
+-----------------
+
+Execution Results:
+Size: 512
+Execution Time (ms): 25
+Memory Usage (MB): 115.62811279296875
+CPU (%): NaN
+Nodes: 1
+Network Latency (ms): 0
+Transfer Time (ms): 0
+-----------------
+
+Execution Results:
+Size: 1024
+Execution Time (ms): 204
+Memory Usage (MB): 316.8397750854492
+CPU (%): 67.75510204081633
+Nodes: 1
+Network Latency (ms): 0
+Transfer Time (ms): 0
+-----------------
+
+Execution Results:
+Size: 2048
+Execution Time (ms): 1559
+Memory Usage (MB): 1041.8295822143555
+CPU (%): 13.793103448275861
+Nodes: 1
+Network Latency (ms): 0
+Transfer Time (ms): 0
+-----------------
+
+Execution Results:
+Size: 4096
+Execution Time (ms): 29365
+Memory Usage (MB): 3947.1238021850586
+CPU (%): 51.421091997008226
+Nodes: 1
+Network Latency (ms): 0
+Transfer Time (ms): 0
+-----------------
